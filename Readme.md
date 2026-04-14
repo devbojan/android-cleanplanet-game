@@ -6,7 +6,7 @@ Bojan Brankovic
 ## Project Overview
 This project is an Android Clean Planet Game focused on environmental awareness and interactive gameplay. The objective of the game is to clean polluted environments, collect waste, and restore balance to the planet through engaging mechanics.
 
-Games with similar concepts often combine casual gameplay with ecological themes, where players clean environments or manage recycling systems to improve the virtual world. :contentReference[oaicite:0]{index=0}  
+Games with similar concepts often combine casual gameplay with ecological themes, where players clean environments or manage recycling systems to improve the virtual world.  
 
 The goal of this project is to demonstrate game logic implementation, user interaction, and mobile performance within a simple but meaningful game scenario.
 
